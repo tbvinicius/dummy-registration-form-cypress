@@ -1,2 +1,2 @@
-# dummy-registration-form-cypress
+# Test of Dummy Registration Form with cypress
  
