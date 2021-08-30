@@ -20,4 +20,5 @@ it('should be able to add a new registration', ()=>{
     cy.get(':nth-child(11) > input').type("facilidade{enter}");
     cy.get(':nth-child(12) > .span_1_of_4 > .button').click();
     cy.get('#alert').contains('This is just a dummy form, you just clicked SUBMIT BUTTON');
+    
 })
